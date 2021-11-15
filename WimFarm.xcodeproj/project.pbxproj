@@ -1,0 +1,610 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 55;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		EE5141ED274204BC00C40F4A /* WimFarmApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE5141EC274204BC00C40F4A /* WimFarmApp.swift */; };
+		EE5141EF274204BC00C40F4A /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE5141EE274204BC00C40F4A /* ContentView.swift */; };
+		EE5141F1274204BF00C40F4A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EE5141F0274204BF00C40F4A /* Assets.xcassets */; };
+		EE5141F4274204BF00C40F4A /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EE5141F3274204BF00C40F4A /* Preview Assets.xcassets */; };
+		EE5141FE274204C000C40F4A /* WimFarmTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE5141FD274204C000C40F4A /* WimFarmTests.swift */; };
+		EE514208274204C000C40F4A /* WimFarmUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE514207274204C000C40F4A /* WimFarmUITests.swift */; };
+		EE51420A274204C000C40F4A /* WimFarmUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE514209274204C000C40F4A /* WimFarmUITestsLaunchTests.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		EE5141FA274204C000C40F4A /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = EE5141E1274204BC00C40F4A /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = EE5141E8274204BC00C40F4A;
+			remoteInfo = WimFarm;
+		};
+		EE514204274204C000C40F4A /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = EE5141E1274204BC00C40F4A /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = EE5141E8274204BC00C40F4A;
+			remoteInfo = WimFarm;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		EE5141E9274204BC00C40F4A /* WimFarm.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WimFarm.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		EE5141EC274204BC00C40F4A /* WimFarmApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WimFarmApp.swift; sourceTree = "<group>"; };
+		EE5141EE274204BC00C40F4A /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		EE5141F0274204BF00C40F4A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		EE5141F3274204BF00C40F4A /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		EE5141F9274204C000C40F4A /* WimFarmTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = WimFarmTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		EE5141FD274204C000C40F4A /* WimFarmTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WimFarmTests.swift; sourceTree = "<group>"; };
+		EE514203274204C000C40F4A /* WimFarmUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = WimFarmUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		EE514207274204C000C40F4A /* WimFarmUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WimFarmUITests.swift; sourceTree = "<group>"; };
+		EE514209274204C000C40F4A /* WimFarmUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WimFarmUITestsLaunchTests.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		EE5141E6274204BC00C40F4A /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		EE5141F6274204C000C40F4A /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		EE514200274204C000C40F4A /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		EE5141E0274204BC00C40F4A = {
+			isa = PBXGroup;
+			children = (
+				EE5141EB274204BC00C40F4A /* WimFarm */,
+				EE5141FC274204C000C40F4A /* WimFarmTests */,
+				EE514206274204C000C40F4A /* WimFarmUITests */,
+				EE5141EA274204BC00C40F4A /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		EE5141EA274204BC00C40F4A /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				EE5141E9274204BC00C40F4A /* WimFarm.app */,
+				EE5141F9274204C000C40F4A /* WimFarmTests.xctest */,
+				EE514203274204C000C40F4A /* WimFarmUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		EE5141EB274204BC00C40F4A /* WimFarm */ = {
+			isa = PBXGroup;
+			children = (
+				EE5141EC274204BC00C40F4A /* WimFarmApp.swift */,
+				EE5141EE274204BC00C40F4A /* ContentView.swift */,
+				EE5141F0274204BF00C40F4A /* Assets.xcassets */,
+				EE5141F2274204BF00C40F4A /* Preview Content */,
+			);
+			path = WimFarm;
+			sourceTree = "<group>";
+		};
+		EE5141F2274204BF00C40F4A /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				EE5141F3274204BF00C40F4A /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		EE5141FC274204C000C40F4A /* WimFarmTests */ = {
+			isa = PBXGroup;
+			children = (
+				EE5141FD274204C000C40F4A /* WimFarmTests.swift */,
+			);
+			path = WimFarmTests;
+			sourceTree = "<group>";
+		};
+		EE514206274204C000C40F4A /* WimFarmUITests */ = {
+			isa = PBXGroup;
+			children = (
+				EE514207274204C000C40F4A /* WimFarmUITests.swift */,
+				EE514209274204C000C40F4A /* WimFarmUITestsLaunchTests.swift */,
+			);
+			path = WimFarmUITests;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		EE5141E8274204BC00C40F4A /* WimFarm */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = EE51420D274204C000C40F4A /* Build configuration list for PBXNativeTarget "WimFarm" */;
+			buildPhases = (
+				EE5141E5274204BC00C40F4A /* Sources */,
+				EE5141E6274204BC00C40F4A /* Frameworks */,
+				EE5141E7274204BC00C40F4A /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = WimFarm;
+			productName = WimFarm;
+			productReference = EE5141E9274204BC00C40F4A /* WimFarm.app */;
+			productType = "com.apple.product-type.application";
+		};
+		EE5141F8274204C000C40F4A /* WimFarmTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = EE514210274204C000C40F4A /* Build configuration list for PBXNativeTarget "WimFarmTests" */;
+			buildPhases = (
+				EE5141F5274204C000C40F4A /* Sources */,
+				EE5141F6274204C000C40F4A /* Frameworks */,
+				EE5141F7274204C000C40F4A /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				EE5141FB274204C000C40F4A /* PBXTargetDependency */,
+			);
+			name = WimFarmTests;
+			productName = WimFarmTests;
+			productReference = EE5141F9274204C000C40F4A /* WimFarmTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		EE514202274204C000C40F4A /* WimFarmUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = EE514213274204C000C40F4A /* Build configuration list for PBXNativeTarget "WimFarmUITests" */;
+			buildPhases = (
+				EE5141FF274204C000C40F4A /* Sources */,
+				EE514200274204C000C40F4A /* Frameworks */,
+				EE514201274204C000C40F4A /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				EE514205274204C000C40F4A /* PBXTargetDependency */,
+			);
+			name = WimFarmUITests;
+			productName = WimFarmUITests;
+			productReference = EE514203274204C000C40F4A /* WimFarmUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		EE5141E1274204BC00C40F4A /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1310;
+				LastUpgradeCheck = 1310;
+				TargetAttributes = {
+					EE5141E8274204BC00C40F4A = {
+						CreatedOnToolsVersion = 13.1;
+					};
+					EE5141F8274204C000C40F4A = {
+						CreatedOnToolsVersion = 13.1;
+						TestTargetID = EE5141E8274204BC00C40F4A;
+					};
+					EE514202274204C000C40F4A = {
+						CreatedOnToolsVersion = 13.1;
+						TestTargetID = EE5141E8274204BC00C40F4A;
+					};
+				};
+			};
+			buildConfigurationList = EE5141E4274204BC00C40F4A /* Build configuration list for PBXProject "WimFarm" */;
+			compatibilityVersion = "Xcode 13.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = EE5141E0274204BC00C40F4A;
+			productRefGroup = EE5141EA274204BC00C40F4A /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				EE5141E8274204BC00C40F4A /* WimFarm */,
+				EE5141F8274204C000C40F4A /* WimFarmTests */,
+				EE514202274204C000C40F4A /* WimFarmUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		EE5141E7274204BC00C40F4A /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				EE5141F4274204BF00C40F4A /* Preview Assets.xcassets in Resources */,
+				EE5141F1274204BF00C40F4A /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		EE5141F7274204C000C40F4A /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		EE514201274204C000C40F4A /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		EE5141E5274204BC00C40F4A /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				EE5141EF274204BC00C40F4A /* ContentView.swift in Sources */,
+				EE5141ED274204BC00C40F4A /* WimFarmApp.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		EE5141F5274204C000C40F4A /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				EE5141FE274204C000C40F4A /* WimFarmTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		EE5141FF274204C000C40F4A /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				EE51420A274204C000C40F4A /* WimFarmUITestsLaunchTests.swift in Sources */,
+				EE514208274204C000C40F4A /* WimFarmUITests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		EE5141FB274204C000C40F4A /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = EE5141E8274204BC00C40F4A /* WimFarm */;
+			targetProxy = EE5141FA274204C000C40F4A /* PBXContainerItemProxy */;
+		};
+		EE514205274204C000C40F4A /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = EE5141E8274204BC00C40F4A /* WimFarm */;
+			targetProxy = EE514204274204C000C40F4A /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		EE51420B274204C000C40F4A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++17";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		EE51420C274204C000C40F4A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++17";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		EE51420E274204C000C40F4A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"WimFarm/Preview Content\"";
+				DEVELOPMENT_TEAM = 5Q463ABW59;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.ulalalab.WimFarm;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		EE51420F274204C000C40F4A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"WimFarm/Preview Content\"";
+				DEVELOPMENT_TEAM = 5Q463ABW59;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.ulalalab.WimFarm;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		EE514211274204C000C40F4A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 5Q463ABW59;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.ulalalab.WimFarmTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/WimFarm.app/WimFarm";
+			};
+			name = Debug;
+		};
+		EE514212274204C000C40F4A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 5Q463ABW59;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.ulalalab.WimFarmTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/WimFarm.app/WimFarm";
+			};
+			name = Release;
+		};
+		EE514214274204C000C40F4A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 5Q463ABW59;
+				GENERATE_INFOPLIST_FILE = YES;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.ulalalab.WimFarmUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = WimFarm;
+			};
+			name = Debug;
+		};
+		EE514215274204C000C40F4A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 5Q463ABW59;
+				GENERATE_INFOPLIST_FILE = YES;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.ulalalab.WimFarmUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = WimFarm;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		EE5141E4274204BC00C40F4A /* Build configuration list for PBXProject "WimFarm" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				EE51420B274204C000C40F4A /* Debug */,
+				EE51420C274204C000C40F4A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		EE51420D274204C000C40F4A /* Build configuration list for PBXNativeTarget "WimFarm" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				EE51420E274204C000C40F4A /* Debug */,
+				EE51420F274204C000C40F4A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		EE514210274204C000C40F4A /* Build configuration list for PBXNativeTarget "WimFarmTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				EE514211274204C000C40F4A /* Debug */,
+				EE514212274204C000C40F4A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		EE514213274204C000C40F4A /* Build configuration list for PBXNativeTarget "WimFarmUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				EE514214274204C000C40F4A /* Debug */,
+				EE514215274204C000C40F4A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = EE5141E1274204BC00C40F4A /* Project object */;
+}
