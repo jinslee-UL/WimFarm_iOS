@@ -1,0 +1,24 @@
+PODS:
+  - SwiftyJSON (5.0.1)
+  - ZVActivityIndicatorView (1.0.0)
+  - ZVProgressHUD (3.0.6):
+    - ZVActivityIndicatorView
+
+DEPENDENCIES:
+  - SwiftyJSON
+  - ZVProgressHUD
+
+SPEC REPOS:
+  trunk:
+    - SwiftyJSON
+    - ZVActivityIndicatorView
+    - ZVProgressHUD
+
+SPEC CHECKSUMS:
+  SwiftyJSON: 2f33a42c6fbc52764d96f13368585094bfd8aa5e
+  ZVActivityIndicatorView: fea0b3a8d8e0f54a106db3c6d543f7d5444cd9ea
+  ZVProgressHUD: dfa70d6d3a0ba98826f2fd9b73d2e2b01a69967e
+
+PODFILE CHECKSUM: f297c4f77e27c4da4dcbf7bacf8e420cf4557fd7
+
+COCOAPODS: 1.11.2

@@ -1,0 +1,2176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "FABB7CA9-1D9D-487B-B135-48BFCB818892"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "81F7E409-A6E5-4716-81D2-D95BB62BF301"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WimFarm/ViewModel/LoginVM.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "230"
+            endingLineNumber = "230"
+            landmarkName = "LoginVM"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6D3A6623-D5B7-4139-A68B-F34D170FEFF7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WimFarm/ViewModel/LoginVM.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "222"
+            endingLineNumber = "222"
+            landmarkName = "LoginVM"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5800401B-DB24-422B-A7BA-C97CFF30EDBA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WimFarm/ViewModel/LoginVM.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "242"
+            endingLineNumber = "242"
+            landmarkName = "LoginVM"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FB058CFA-F206-417D-8BF4-E247EA74A547"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WimFarm/ViewModel/LoginVM.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "251"
+            endingLineNumber = "251"
+            landmarkName = "LoginVM"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "23ED357E-61E5-4401-937E-F817AAA6E00D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WimFarm/View/RootTabView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "selectedTab"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6C136D04-D3EC-4DB5-9A10-A6143AE4EC5E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WimFarm/View/RootTabView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "selectedTab"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1CA1B64C-42F2-4744-9C9B-39C26A5DD147"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WimFarm/View/RootTabView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E2777392-E786-4217-A038-72F4CCB1DA81"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WimFarm/Network/Repository/WeatherRepository.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "75"
+            endingLineNumber = "75"
+            landmarkName = "makeweatherModelComponents(withCoordinates:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E2777392-E786-4217-A038-72F4CCB1DA81 - 34e9fffe046ab0a6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WimFarm.DataManager.makeweatherModelComponents(withCoordinates: __C.CLLocationCoordinate2D) -&gt; Foundation.URLComponents"
+                  moduleName = "WimFarm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ulalalab/Documents/Source/application/WimFarm_iOS/WimFarm/WimFarm/Network/Repository/WeatherRepository.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "75"
+                  endingLineNumber = "75"
+                  offsetFromSymbolStart = "1604">
+               </Location>
+               <Location
+                  uuid = "E2777392-E786-4217-A038-72F4CCB1DA81 - 34e9fffe046ab0a6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WimFarm.DataManager.makeweatherModelComponents(withCoordinates: __C.CLLocationCoordinate2D) -&gt; Foundation.URLComponents"
+                  moduleName = "WimFarm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ulalalab/Documents/Source/application/WimFarm_iOS/WimFarm/WimFarm/Network/Repository/WeatherRepository.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "75"
+                  endingLineNumber = "75"
+                  offsetFromSymbolStart = "1635">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7ED1FD87-CA23-42DA-9320-ECBFB2A320EC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WimFarm/View/DashboardView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "495"
+            endingLineNumber = "495"
+            landmarkName = "drawWidget(wItem:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3BE8ABA6-39C1-42B3-AC2E-58B79A1E9BC1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WimFarm/Network/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "124"
+            endingLineNumber = "124"
+            landmarkName = "fetch(from:method:parameter:token:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3BE8ABA6-39C1-42B3-AC2E-58B79A1E9BC1 - 35a2c419448bd6ff"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;&#x3c4;_0_0, Alamofire.AFError&gt;) -&gt; () in static WimFarm.NetworkManagerJSONEncodingWT.fetch(from: Swift.String, method: Alamofire.HTTPMethod, parameter: Swift.Dictionary&lt;Swift.String, Any&gt;, token: Swift.String, completion: (Swift.Result&lt;&#x3c4;_0_0, WimFarm.NetworkError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "WimFarm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ulalalab/Documents/Source/application/WimFarm_iOS/WimFarm/WimFarm/Network/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "124"
+                  endingLineNumber = "124"
+                  offsetFromSymbolStart = "1160">
+               </Location>
+               <Location
+                  uuid = "3BE8ABA6-39C1-42B3-AC2E-58B79A1E9BC1 - 35a2c419448bd6ff"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;&#x3c4;_0_0, Alamofire.AFError&gt;) -&gt; () in static WimFarm.NetworkManagerJSONEncodingWT.fetch(from: Swift.String, method: Alamofire.HTTPMethod, parameter: Swift.Dictionary&lt;Swift.String, Any&gt;, token: Swift.String, completion: (Swift.Result&lt;&#x3c4;_0_0, WimFarm.NetworkError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "WimFarm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ulalalab/Documents/Source/application/WimFarm_iOS/WimFarm/WimFarm/Network/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "124"
+                  endingLineNumber = "124"
+                  offsetFromSymbolStart = "892">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5340D9D8-8BB7-4F7A-B8F9-5503E4D6B6D2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WimFarm/Network/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "129"
+            endingLineNumber = "129"
+            landmarkName = "fetch(from:method:parameter:token:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "5340D9D8-8BB7-4F7A-B8F9-5503E4D6B6D2 - 35a2c419448bd91a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;&#x3c4;_0_0, Alamofire.AFError&gt;) -&gt; () in static WimFarm.NetworkManagerJSONEncodingWT.fetch(from: Swift.String, method: Alamofire.HTTPMethod, parameter: Swift.Dictionary&lt;Swift.String, Any&gt;, token: Swift.String, completion: (Swift.Result&lt;&#x3c4;_0_0, WimFarm.NetworkError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "WimFarm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ulalalab/Documents/Source/application/WimFarm_iOS/WimFarm/WimFarm/Network/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "129"
+                  endingLineNumber = "129"
+                  offsetFromSymbolStart = "1732">
+               </Location>
+               <Location
+                  uuid = "5340D9D8-8BB7-4F7A-B8F9-5503E4D6B6D2 - 35a2c419448bd91a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;&#x3c4;_0_0, Alamofire.AFError&gt;) -&gt; () in static WimFarm.NetworkManagerJSONEncodingWT.fetch(from: Swift.String, method: Alamofire.HTTPMethod, parameter: Swift.Dictionary&lt;Swift.String, Any&gt;, token: Swift.String, completion: (Swift.Result&lt;&#x3c4;_0_0, WimFarm.NetworkError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "WimFarm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ulalalab/Documents/Source/application/WimFarm_iOS/WimFarm/WimFarm/Network/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "129"
+                  endingLineNumber = "129"
+                  offsetFromSymbolStart = "1489">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9EC4557A-FD27-4D96-BD65-CC4452DD29C1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WimFarm/Network/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "131"
+            endingLineNumber = "131"
+            landmarkName = "fetch(from:method:parameter:token:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9EC4557A-FD27-4D96-BD65-CC4452DD29C1 - 35a2c419448bd9d8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;&#x3c4;_0_0, Alamofire.AFError&gt;) -&gt; () in static WimFarm.NetworkManagerJSONEncodingWT.fetch(from: Swift.String, method: Alamofire.HTTPMethod, parameter: Swift.Dictionary&lt;Swift.String, Any&gt;, token: Swift.String, completion: (Swift.Result&lt;&#x3c4;_0_0, WimFarm.NetworkError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "WimFarm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ulalalab/Documents/Source/application/WimFarm_iOS/WimFarm/WimFarm/Network/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "131"
+                  endingLineNumber = "131"
+                  offsetFromSymbolStart = "1440">
+               </Location>
+               <Location
+                  uuid = "9EC4557A-FD27-4D96-BD65-CC4452DD29C1 - 35a2c419448bd9d8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;&#x3c4;_0_0, Alamofire.AFError&gt;) -&gt; () in static WimFarm.NetworkManagerJSONEncodingWT.fetch(from: Swift.String, method: Alamofire.HTTPMethod, parameter: Swift.Dictionary&lt;Swift.String, Any&gt;, token: Swift.String, completion: (Swift.Result&lt;&#x3c4;_0_0, WimFarm.NetworkError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "WimFarm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ulalalab/Documents/Source/application/WimFarm_iOS/WimFarm/WimFarm/Network/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "131"
+                  endingLineNumber = "131"
+                  offsetFromSymbolStart = "1195">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "097E7132-3B47-4A13-B3AB-28BCD6B9611C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WimFarm/Network/Repository/WeatherRepository.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "init(session:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "097E7132-3B47-4A13-B3AB-28BCD6B9611C - 1425fc8e400b6084"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WimFarm.DataManager.init(session: __C.NSURLSession) -&gt; WimFarm.DataManager"
+                  moduleName = "WimFarm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ulalalab/Documents/Source/application/WimFarm_iOS/WimFarm/WimFarm/Network/Repository/WeatherRepository.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "097E7132-3B47-4A13-B3AB-28BCD6B9611C - 1425fc8e400b6084"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WimFarm.DataManager.init(session: __C.NSURLSession) -&gt; WimFarm.DataManager"
+                  moduleName = "WimFarm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ulalalab/Documents/Source/application/WimFarm_iOS/WimFarm/WimFarm/Network/Repository/WeatherRepository.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "40">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "07F382EA-A31B-42E5-A9C0-513A5B4FFEAD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WimFarm/Network/Repository/WeatherRepository.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "weatherModel(forCity:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "07F382EA-A31B-42E5-A9C0-513A5B4FFEAD - 5f74c30af7c1efd7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.CLLocationCoordinate2D) -&gt; Combine.AnyPublisher&lt;(data: Foundation.Data, response: __C.NSURLResponse), WimFarm.WeatherError&gt; in WimFarm.DataManager.weatherModel(forCity: Swift.String) -&gt; Combine.AnyPublisher&lt;WimFarm.WeatherModel, WimFarm.WeatherError&gt;"
+                  moduleName = "WimFarm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ulalalab/Documents/Source/application/WimFarm_iOS/WimFarm/WimFarm/Network/Repository/WeatherRepository.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "1208">
+               </Location>
+               <Location
+                  uuid = "07F382EA-A31B-42E5-A9C0-513A5B4FFEAD - 5f74c30af7c1efd7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.CLLocationCoordinate2D) -&gt; Combine.AnyPublisher&lt;(data: Foundation.Data, response: __C.NSURLResponse), WimFarm.WeatherError&gt; in WimFarm.DataManager.weatherModel(forCity: Swift.String) -&gt; Combine.AnyPublisher&lt;WimFarm.WeatherModel, WimFarm.WeatherError&gt;"
+                  moduleName = "WimFarm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ulalalab/Documents/Source/application/WimFarm_iOS/WimFarm/WimFarm/Network/Repository/WeatherRepository.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "942">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "15A95190-2BFA-45A4-A308-584DB58F06BC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WimFarm/Network/Repository/WeatherRepository.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "weatherModel(forCity:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "15A95190-2BFA-45A4-A308-584DB58F06BC - 5f74c30af7c1f072"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.CLLocationCoordinate2D) -&gt; Combine.AnyPublisher&lt;(data: Foundation.Data, response: __C.NSURLResponse), WimFarm.WeatherError&gt; in WimFarm.DataManager.weatherModel(forCity: Swift.String) -&gt; Combine.AnyPublisher&lt;WimFarm.WeatherModel, WimFarm.WeatherError&gt;"
+                  moduleName = "WimFarm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ulalalab/Documents/Source/application/WimFarm_iOS/WimFarm/WimFarm/Network/Repository/WeatherRepository.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "1620">
+               </Location>
+               <Location
+                  uuid = "15A95190-2BFA-45A4-A308-584DB58F06BC - 5f74c30af7c1f072"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.CLLocationCoordinate2D) -&gt; Combine.AnyPublisher&lt;(data: Foundation.Data, response: __C.NSURLResponse), WimFarm.WeatherError&gt; in WimFarm.DataManager.weatherModel(forCity: Swift.String) -&gt; Combine.AnyPublisher&lt;WimFarm.WeatherModel, WimFarm.WeatherError&gt;"
+                  moduleName = "WimFarm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ulalalab/Documents/Source/application/WimFarm_iOS/WimFarm/WimFarm/Network/Repository/WeatherRepository.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "1313">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A52B9FE9-5D1A-4601-A1CE-91073FCD6DAB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WimFarm/Network/Repository/WeatherRepository.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "WeatherFetcher"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B9B402FC-2496-43B1-B0DE-216FCA5A1ADA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WimFarm/ViewModel/AlarmVM.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "169"
+            endingLineNumber = "169"
+            landmarkName = "alarmDaily()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B9B402FC-2496-43B1-B0DE-216FCA5A1ADA - 8b069007a5783c18"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Result&lt;WimFarm.AlarmPastResponse, WimFarm.NetworkError&gt;) -&gt; () in WimFarm.AlarmVM.alarmDaily() -&gt; ()"
+                  moduleName = "WimFarm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ulalalab/Documents/Source/application/WimFarm_iOS/WimFarm/WimFarm/ViewModel/AlarmVM.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "169"
+                  endingLineNumber = "169"
+                  offsetFromSymbolStart = "1244">
+               </Location>
+               <Location
+                  uuid = "B9B402FC-2496-43B1-B0DE-216FCA5A1ADA - 8b069007a5783c18"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Result&lt;WimFarm.AlarmPastResponse, WimFarm.NetworkError&gt;) -&gt; () in WimFarm.AlarmVM.alarmDaily() -&gt; ()"
+                  moduleName = "WimFarm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ulalalab/Documents/Source/application/WimFarm_iOS/WimFarm/WimFarm/ViewModel/AlarmVM.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "169"
+                  endingLineNumber = "169"
+                  offsetFromSymbolStart = "1172">
+               </Location>
+               <Location
+                  uuid = "B9B402FC-2496-43B1-B0DE-216FCA5A1ADA - 8b069007a5783c18"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Result&lt;WimFarm.AlarmPastResponse, WimFarm.NetworkError&gt;) -&gt; () in WimFarm.AlarmVM.alarmDaily() -&gt; ()"
+                  moduleName = "WimFarm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ulalalab/Documents/Source/application/WimFarm_iOS/WimFarm/WimFarm/ViewModel/AlarmVM.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "169"
+                  endingLineNumber = "169"
+                  offsetFromSymbolStart = "1832">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5ED1F3FB-BB87-4F2C-A421-E7C8D69AFDAE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WimFarm/ViewModel/AlarmVM.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "157"
+            endingLineNumber = "157"
+            landmarkName = "alarmDaily()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "5ED1F3FB-BB87-4F2C-A421-E7C8D69AFDAE - 8b069007a578326c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Result&lt;WimFarm.AlarmPastResponse, WimFarm.NetworkError&gt;) -&gt; () in WimFarm.AlarmVM.alarmDaily() -&gt; ()"
+                  moduleName = "WimFarm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ulalalab/Documents/Source/application/WimFarm_iOS/WimFarm/WimFarm/ViewModel/AlarmVM.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "157"
+                  endingLineNumber = "157"
+                  offsetFromSymbolStart = "1052">
+               </Location>
+               <Location
+                  uuid = "5ED1F3FB-BB87-4F2C-A421-E7C8D69AFDAE - a62e615ee9aef580"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WimFarm.AlarmVM.alarmDaily() -&gt; ()"
+                  moduleName = "WimFarm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ulalalab/Documents/Source/application/WimFarm_iOS/WimFarm/WimFarm/ViewModel/AlarmVM.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "157"
+                  endingLineNumber = "157"
+                  offsetFromSymbolStart = "2928">
+               </Location>
+               <Location
+                  uuid = "5ED1F3FB-BB87-4F2C-A421-E7C8D69AFDAE - 8b069007a57832cf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Result&lt;WimFarm.AlarmPastResponse, WimFarm.NetworkError&gt;) -&gt; () in WimFarm.AlarmVM.alarmDaily() -&gt; ()"
+                  moduleName = "WimFarm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ulalalab/Documents/Source/application/WimFarm_iOS/WimFarm/WimFarm/ViewModel/AlarmVM.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "160"
+                  endingLineNumber = "160"
+                  offsetFromSymbolStart = "600">
+               </Location>
+               <Location
+                  uuid = "5ED1F3FB-BB87-4F2C-A421-E7C8D69AFDAE - a62e615ee9aef580"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WimFarm.AlarmVM.alarmDaily() -&gt; ()"
+                  moduleName = "WimFarm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ulalalab/Documents/Source/application/WimFarm_iOS/WimFarm/WimFarm/ViewModel/AlarmVM.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "157"
+                  endingLineNumber = "157"
+                  offsetFromSymbolStart = "3343">
+               </Location>
+               <Location
+                  uuid = "5ED1F3FB-BB87-4F2C-A421-E7C8D69AFDAE - 8b069007a57832cf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Result&lt;WimFarm.AlarmPastResponse, WimFarm.NetworkError&gt;) -&gt; () in WimFarm.AlarmVM.alarmDaily() -&gt; ()"
+                  moduleName = "WimFarm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ulalalab/Documents/Source/application/WimFarm_iOS/WimFarm/WimFarm/ViewModel/AlarmVM.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "160"
+                  endingLineNumber = "160"
+                  offsetFromSymbolStart = "953">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FC3F781D-502A-4ED6-BE57-87DD0ED758E5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WimFarm/ViewModel/AlarmVM.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "148"
+            endingLineNumber = "148"
+            landmarkName = "alarmDaily()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "FC3F781D-502A-4ED6-BE57-87DD0ED758E5 - a62e615ee9aef404"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WimFarm.AlarmVM.alarmDaily() -&gt; ()"
+                  moduleName = "WimFarm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ulalalab/Documents/Source/application/WimFarm_iOS/WimFarm/WimFarm/ViewModel/AlarmVM.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "153"
+                  endingLineNumber = "153"
+                  offsetFromSymbolStart = "2928">
+               </Location>
+               <Location
+                  uuid = "FC3F781D-502A-4ED6-BE57-87DD0ED758E5 - a62e615ee9aef580"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WimFarm.AlarmVM.alarmDaily() -&gt; ()"
+                  moduleName = "WimFarm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ulalalab/Documents/Source/application/WimFarm_iOS/WimFarm/WimFarm/ViewModel/AlarmVM.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "157"
+                  endingLineNumber = "157"
+                  offsetFromSymbolStart = "2928">
+               </Location>
+               <Location
+                  uuid = "FC3F781D-502A-4ED6-BE57-87DD0ED758E5 - a62e615ee9aef580"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WimFarm.AlarmVM.alarmDaily() -&gt; ()"
+                  moduleName = "WimFarm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ulalalab/Documents/Source/application/WimFarm_iOS/WimFarm/WimFarm/ViewModel/AlarmVM.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "157"
+                  endingLineNumber = "157"
+                  offsetFromSymbolStart = "3343">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "66856363-DA65-4A6C-9539-AE9202DA9CDC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WimFarm/ViewModel/AlarmVM.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "151"
+            endingLineNumber = "151"
+            landmarkName = "alarmDaily()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "66856363-DA65-4A6C-9539-AE9202DA9CDC - a62e615ee9aef404"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WimFarm.AlarmVM.alarmDaily() -&gt; ()"
+                  moduleName = "WimFarm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ulalalab/Documents/Source/application/WimFarm_iOS/WimFarm/WimFarm/ViewModel/AlarmVM.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "153"
+                  endingLineNumber = "153"
+                  offsetFromSymbolStart = "2928">
+               </Location>
+               <Location
+                  uuid = "66856363-DA65-4A6C-9539-AE9202DA9CDC - a62e615ee9aef580"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WimFarm.AlarmVM.alarmDaily() -&gt; ()"
+                  moduleName = "WimFarm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ulalalab/Documents/Source/application/WimFarm_iOS/WimFarm/WimFarm/ViewModel/AlarmVM.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "157"
+                  endingLineNumber = "157"
+                  offsetFromSymbolStart = "2928">
+               </Location>
+               <Location
+                  uuid = "66856363-DA65-4A6C-9539-AE9202DA9CDC - a62e615ee9aef580"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WimFarm.AlarmVM.alarmDaily() -&gt; ()"
+                  moduleName = "WimFarm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ulalalab/Documents/Source/application/WimFarm_iOS/WimFarm/WimFarm/ViewModel/AlarmVM.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "157"
+                  endingLineNumber = "157"
+                  offsetFromSymbolStart = "3343">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4A0232F7-7B23-42C5-803B-BF4075195BF7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WimFarm/ViewModel/AlarmVM.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "142"
+            endingLineNumber = "142"
+            landmarkName = "alarmDaily()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4A0232F7-7B23-42C5-803B-BF4075195BF7 - a62e615ee9aef404"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WimFarm.AlarmVM.alarmDaily() -&gt; ()"
+                  moduleName = "WimFarm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ulalalab/Documents/Source/application/WimFarm_iOS/WimFarm/WimFarm/ViewModel/AlarmVM.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "153"
+                  endingLineNumber = "153"
+                  offsetFromSymbolStart = "2928">
+               </Location>
+               <Location
+                  uuid = "4A0232F7-7B23-42C5-803B-BF4075195BF7 - a62e615ee9aef580"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WimFarm.AlarmVM.alarmDaily() -&gt; ()"
+                  moduleName = "WimFarm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ulalalab/Documents/Source/application/WimFarm_iOS/WimFarm/WimFarm/ViewModel/AlarmVM.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "157"
+                  endingLineNumber = "157"
+                  offsetFromSymbolStart = "2928">
+               </Location>
+               <Location
+                  uuid = "4A0232F7-7B23-42C5-803B-BF4075195BF7 - a62e615ee9aef580"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WimFarm.AlarmVM.alarmDaily() -&gt; ()"
+                  moduleName = "WimFarm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ulalalab/Documents/Source/application/WimFarm_iOS/WimFarm/WimFarm/ViewModel/AlarmVM.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "157"
+                  endingLineNumber = "157"
+                  offsetFromSymbolStart = "3343">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "15FA3FDA-46FF-4E1E-A4A6-EC1D18E018D3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WimFarm/ViewModel/AlarmVM.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "141"
+            endingLineNumber = "141"
+            landmarkName = "alarmDaily()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "15FA3FDA-46FF-4E1E-A4A6-EC1D18E018D3 - a62e615ee9aef404"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WimFarm.AlarmVM.alarmDaily() -&gt; ()"
+                  moduleName = "WimFarm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ulalalab/Documents/Source/application/WimFarm_iOS/WimFarm/WimFarm/ViewModel/AlarmVM.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "153"
+                  endingLineNumber = "153"
+                  offsetFromSymbolStart = "2928">
+               </Location>
+               <Location
+                  uuid = "15FA3FDA-46FF-4E1E-A4A6-EC1D18E018D3 - a62e615ee9aef580"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WimFarm.AlarmVM.alarmDaily() -&gt; ()"
+                  moduleName = "WimFarm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ulalalab/Documents/Source/application/WimFarm_iOS/WimFarm/WimFarm/ViewModel/AlarmVM.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "157"
+                  endingLineNumber = "157"
+                  offsetFromSymbolStart = "2928">
+               </Location>
+               <Location
+                  uuid = "15FA3FDA-46FF-4E1E-A4A6-EC1D18E018D3 - a62e615ee9aef580"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WimFarm.AlarmVM.alarmDaily() -&gt; ()"
+                  moduleName = "WimFarm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ulalalab/Documents/Source/application/WimFarm_iOS/WimFarm/WimFarm/ViewModel/AlarmVM.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "157"
+                  endingLineNumber = "157"
+                  offsetFromSymbolStart = "3343">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "45992941-4FA6-4A60-8970-9A56315E6F64"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WimFarm/ViewModel/AlarmVM.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "161"
+            endingLineNumber = "161"
+            landmarkName = "alarmDaily()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "45992941-4FA6-4A60-8970-9A56315E6F64 - 8b069007a5783d94"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Result&lt;WimFarm.AlarmPastResponse, WimFarm.NetworkError&gt;) -&gt; () in WimFarm.AlarmVM.alarmDaily() -&gt; ()"
+                  moduleName = "WimFarm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ulalalab/Documents/Source/application/WimFarm_iOS/WimFarm/WimFarm/ViewModel/AlarmVM.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "165"
+                  endingLineNumber = "165"
+                  offsetFromSymbolStart = "1172">
+               </Location>
+               <Location
+                  uuid = "45992941-4FA6-4A60-8970-9A56315E6F64 - 8b069007a5783d10"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Result&lt;WimFarm.AlarmPastResponse, WimFarm.NetworkError&gt;) -&gt; () in WimFarm.AlarmVM.alarmDaily() -&gt; ()"
+                  moduleName = "WimFarm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ulalalab/Documents/Source/application/WimFarm_iOS/WimFarm/WimFarm/ViewModel/AlarmVM.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "161"
+                  endingLineNumber = "161"
+                  offsetFromSymbolStart = "1052">
+               </Location>
+               <Location
+                  uuid = "45992941-4FA6-4A60-8970-9A56315E6F64 - 8b069007a5783d10"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Result&lt;WimFarm.AlarmPastResponse, WimFarm.NetworkError&gt;) -&gt; () in WimFarm.AlarmVM.alarmDaily() -&gt; ()"
+                  moduleName = "WimFarm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ulalalab/Documents/Source/application/WimFarm_iOS/WimFarm/WimFarm/ViewModel/AlarmVM.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "161"
+                  endingLineNumber = "161"
+                  offsetFromSymbolStart = "1704">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "30476FED-744C-474D-BABB-2A80CCB299D1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WimFarm/Network/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "280"
+            endingLineNumber = "280"
+            landmarkName = "fetchAlarmPast(for:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "30476FED-744C-474D-BABB-2A80CCB299D1 - 4959b9f49f1b95dc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in static WimFarm.AlarmPastNetworkManager.fetchAlarmPast(for: Foundation.URL, completion: (Swift.Result&lt;&#x3c4;_0_0, WimFarm.NetworkError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "WimFarm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ulalalab/Documents/Source/application/WimFarm_iOS/WimFarm/WimFarm/Network/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "280"
+                  endingLineNumber = "280"
+                  offsetFromSymbolStart = "528">
+               </Location>
+               <Location
+                  uuid = "30476FED-744C-474D-BABB-2A80CCB299D1 - 4959b9f49f1b95dc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in static WimFarm.AlarmPastNetworkManager.fetchAlarmPast(for: Foundation.URL, completion: (Swift.Result&lt;&#x3c4;_0_0, WimFarm.NetworkError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "WimFarm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ulalalab/Documents/Source/application/WimFarm_iOS/WimFarm/WimFarm/Network/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "280"
+                  endingLineNumber = "280"
+                  offsetFromSymbolStart = "608">
+               </Location>
+               <Location
+                  uuid = "30476FED-744C-474D-BABB-2A80CCB299D1 - 4959b9f49f1b95dc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in static WimFarm.AlarmPastNetworkManager.fetchAlarmPast(for: Foundation.URL, completion: (Swift.Result&lt;&#x3c4;_0_0, WimFarm.NetworkError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "WimFarm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ulalalab/Documents/Source/application/WimFarm_iOS/WimFarm/WimFarm/Network/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "280"
+                  endingLineNumber = "280"
+                  offsetFromSymbolStart = "441">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "234A8EF3-FFFC-47C8-978D-31F943DC7DEE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WimFarm/Network/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "285"
+            endingLineNumber = "285"
+            landmarkName = "fetchAlarmPast(for:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "234A8EF3-FFFC-47C8-978D-31F943DC7DEE - 4959b9f49f1b9201"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in static WimFarm.AlarmPastNetworkManager.fetchAlarmPast(for: Foundation.URL, completion: (Swift.Result&lt;&#x3c4;_0_0, WimFarm.NetworkError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "WimFarm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ulalalab/Documents/Source/application/WimFarm_iOS/WimFarm/WimFarm/Network/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "285"
+                  endingLineNumber = "285"
+                  offsetFromSymbolStart = "772">
+               </Location>
+               <Location
+                  uuid = "234A8EF3-FFFC-47C8-978D-31F943DC7DEE - 4959b9f49f1b9201"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in static WimFarm.AlarmPastNetworkManager.fetchAlarmPast(for: Foundation.URL, completion: (Swift.Result&lt;&#x3c4;_0_0, WimFarm.NetworkError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "WimFarm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ulalalab/Documents/Source/application/WimFarm_iOS/WimFarm/WimFarm/Network/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "285"
+                  endingLineNumber = "285"
+                  offsetFromSymbolStart = "1040">
+               </Location>
+               <Location
+                  uuid = "234A8EF3-FFFC-47C8-978D-31F943DC7DEE - 4959b9f49f1b9201"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in static WimFarm.AlarmPastNetworkManager.fetchAlarmPast(for: Foundation.URL, completion: (Swift.Result&lt;&#x3c4;_0_0, WimFarm.NetworkError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "WimFarm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ulalalab/Documents/Source/application/WimFarm_iOS/WimFarm/WimFarm/Network/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "285"
+                  endingLineNumber = "285"
+                  offsetFromSymbolStart = "3092">
+               </Location>
+               <Location
+                  uuid = "234A8EF3-FFFC-47C8-978D-31F943DC7DEE - 4959b9f49f1b9201"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in static WimFarm.AlarmPastNetworkManager.fetchAlarmPast(for: Foundation.URL, completion: (Swift.Result&lt;&#x3c4;_0_0, WimFarm.NetworkError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "WimFarm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ulalalab/Documents/Source/application/WimFarm_iOS/WimFarm/WimFarm/Network/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "285"
+                  endingLineNumber = "285"
+                  offsetFromSymbolStart = "2679">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3D4E92B2-3750-4242-A44A-E704AE3C537A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WimFarm/Network/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "292"
+            endingLineNumber = "292"
+            landmarkName = "fetchAlarmPast(for:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3D4E92B2-3750-4242-A44A-E704AE3C537A - 4959b9f49f1b9328"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in static WimFarm.AlarmPastNetworkManager.fetchAlarmPast(for: Foundation.URL, completion: (Swift.Result&lt;&#x3c4;_0_0, WimFarm.NetworkError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "WimFarm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ulalalab/Documents/Source/application/WimFarm_iOS/WimFarm/WimFarm/Network/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "292"
+                  endingLineNumber = "292"
+                  offsetFromSymbolStart = "2376">
+               </Location>
+               <Location
+                  uuid = "3D4E92B2-3750-4242-A44A-E704AE3C537A - 4959b9f49f1b9328"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in static WimFarm.AlarmPastNetworkManager.fetchAlarmPast(for: Foundation.URL, completion: (Swift.Result&lt;&#x3c4;_0_0, WimFarm.NetworkError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "WimFarm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ulalalab/Documents/Source/application/WimFarm_iOS/WimFarm/WimFarm/Network/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "292"
+                  endingLineNumber = "292"
+                  offsetFromSymbolStart = "2828">
+               </Location>
+               <Location
+                  uuid = "3D4E92B2-3750-4242-A44A-E704AE3C537A - 4959b9f49f1b9328"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in static WimFarm.AlarmPastNetworkManager.fetchAlarmPast(for: Foundation.URL, completion: (Swift.Result&lt;&#x3c4;_0_0, WimFarm.NetworkError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "WimFarm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ulalalab/Documents/Source/application/WimFarm_iOS/WimFarm/WimFarm/Network/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "292"
+                  endingLineNumber = "292"
+                  offsetFromSymbolStart = "2880">
+               </Location>
+               <Location
+                  uuid = "3D4E92B2-3750-4242-A44A-E704AE3C537A - 4959b9f49f1b9328"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in static WimFarm.AlarmPastNetworkManager.fetchAlarmPast(for: Foundation.URL, completion: (Swift.Result&lt;&#x3c4;_0_0, WimFarm.NetworkError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "WimFarm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ulalalab/Documents/Source/application/WimFarm_iOS/WimFarm/WimFarm/Network/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "292"
+                  endingLineNumber = "292"
+                  offsetFromSymbolStart = "2473">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "21788A07-87B8-460B-8EF8-EDDE89812AE5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WimFarm/Network/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "300"
+            endingLineNumber = "300"
+            landmarkName = "fetchAlarmPast(for:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "21788A07-87B8-460B-8EF8-EDDE89812AE5 - 4959b9f49f1b9030"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in static WimFarm.AlarmPastNetworkManager.fetchAlarmPast(for: Foundation.URL, completion: (Swift.Result&lt;&#x3c4;_0_0, WimFarm.NetworkError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "WimFarm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ulalalab/Documents/Source/application/WimFarm_iOS/WimFarm/WimFarm/Network/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "300"
+                  endingLineNumber = "300"
+                  offsetFromSymbolStart = "1736">
+               </Location>
+               <Location
+                  uuid = "21788A07-87B8-460B-8EF8-EDDE89812AE5 - 4959b9f49f1b9030"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in static WimFarm.AlarmPastNetworkManager.fetchAlarmPast(for: Foundation.URL, completion: (Swift.Result&lt;&#x3c4;_0_0, WimFarm.NetworkError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "WimFarm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ulalalab/Documents/Source/application/WimFarm_iOS/WimFarm/WimFarm/Network/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "300"
+                  endingLineNumber = "300"
+                  offsetFromSymbolStart = "1852">
+               </Location>
+               <Location
+                  uuid = "21788A07-87B8-460B-8EF8-EDDE89812AE5 - 4959b9f49f1b9030"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in static WimFarm.AlarmPastNetworkManager.fetchAlarmPast(for: Foundation.URL, completion: (Swift.Result&lt;&#x3c4;_0_0, WimFarm.NetworkError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "WimFarm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ulalalab/Documents/Source/application/WimFarm_iOS/WimFarm/WimFarm/Network/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "300"
+                  endingLineNumber = "300"
+                  offsetFromSymbolStart = "1551">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2A64940F-3788-421C-BB06-CADAB3845529"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WimFarm/Network/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "303"
+            endingLineNumber = "303"
+            landmarkName = "fetchAlarmPast(for:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2A64940F-3788-421C-BB06-CADAB3845529 - 4959b9f49f1b90d3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in static WimFarm.AlarmPastNetworkManager.fetchAlarmPast(for: Foundation.URL, completion: (Swift.Result&lt;&#x3c4;_0_0, WimFarm.NetworkError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "WimFarm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ulalalab/Documents/Source/application/WimFarm_iOS/WimFarm/WimFarm/Network/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "303"
+                  endingLineNumber = "303"
+                  offsetFromSymbolStart = "3312">
+               </Location>
+               <Location
+                  uuid = "2A64940F-3788-421C-BB06-CADAB3845529 - 4959b9f49f1b90d3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in static WimFarm.AlarmPastNetworkManager.fetchAlarmPast(for: Foundation.URL, completion: (Swift.Result&lt;&#x3c4;_0_0, WimFarm.NetworkError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "WimFarm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ulalalab/Documents/Source/application/WimFarm_iOS/WimFarm/WimFarm/Network/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "303"
+                  endingLineNumber = "303"
+                  offsetFromSymbolStart = "3576">
+               </Location>
+               <Location
+                  uuid = "2A64940F-3788-421C-BB06-CADAB3845529 - 4959b9f49f1b90d3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in static WimFarm.AlarmPastNetworkManager.fetchAlarmPast(for: Foundation.URL, completion: (Swift.Result&lt;&#x3c4;_0_0, WimFarm.NetworkError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "WimFarm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ulalalab/Documents/Source/application/WimFarm_iOS/WimFarm/WimFarm/Network/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "303"
+                  endingLineNumber = "303"
+                  offsetFromSymbolStart = "3153">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5015F6CD-CD5D-447C-90D1-2768945CFFEB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WimFarm/Network/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "173"
+            endingLineNumber = "173"
+            landmarkName = "fetch(from:method:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "5015F6CD-CD5D-447C-90D1-2768945CFFEB - 5903bfd434d85934"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;&#x3c4;_0_0, Alamofire.AFError&gt;) -&gt; () in static WimFarm.NetworkManagerUrlEncodingNothing.fetch(from: Swift.String, method: Alamofire.HTTPMethod, completion: (Swift.Result&lt;&#x3c4;_0_0, WimFarm.NetworkError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "WimFarm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ulalalab/Documents/Source/application/WimFarm_iOS/WimFarm/WimFarm/Network/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "173"
+                  endingLineNumber = "173"
+                  offsetFromSymbolStart = "1160">
+               </Location>
+               <Location
+                  uuid = "5015F6CD-CD5D-447C-90D1-2768945CFFEB - 5903bfd434d85934"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;&#x3c4;_0_0, Alamofire.AFError&gt;) -&gt; () in static WimFarm.NetworkManagerUrlEncodingNothing.fetch(from: Swift.String, method: Alamofire.HTTPMethod, completion: (Swift.Result&lt;&#x3c4;_0_0, WimFarm.NetworkError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "WimFarm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ulalalab/Documents/Source/application/WimFarm_iOS/WimFarm/WimFarm/Network/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "173"
+                  endingLineNumber = "173"
+                  offsetFromSymbolStart = "892">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EF803C07-1CD4-472E-9B03-F968482B00B6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WimFarm/Network/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "177"
+            endingLineNumber = "177"
+            landmarkName = "fetch(from:method:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EF803C07-1CD4-472E-9B03-F968482B00B6 - 5903bfd434d85ab0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;&#x3c4;_0_0, Alamofire.AFError&gt;) -&gt; () in static WimFarm.NetworkManagerUrlEncodingNothing.fetch(from: Swift.String, method: Alamofire.HTTPMethod, completion: (Swift.Result&lt;&#x3c4;_0_0, WimFarm.NetworkError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "WimFarm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ulalalab/Documents/Source/application/WimFarm_iOS/WimFarm/WimFarm/Network/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "177"
+                  endingLineNumber = "177"
+                  offsetFromSymbolStart = "1608">
+               </Location>
+               <Location
+                  uuid = "EF803C07-1CD4-472E-9B03-F968482B00B6 - 5903bfd434d85ab0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;&#x3c4;_0_0, Alamofire.AFError&gt;) -&gt; () in static WimFarm.NetworkManagerUrlEncodingNothing.fetch(from: Swift.String, method: Alamofire.HTTPMethod, completion: (Swift.Result&lt;&#x3c4;_0_0, WimFarm.NetworkError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "WimFarm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ulalalab/Documents/Source/application/WimFarm_iOS/WimFarm/WimFarm/Network/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "177"
+                  endingLineNumber = "177"
+                  offsetFromSymbolStart = "1371">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C6EFA881-BEAC-4C18-B225-FDCB1B5B5774"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WimFarm/ViewModel/TrendVM.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "183"
+            endingLineNumber = "183"
+            landmarkName = "summary(lvmToken:widgetLst:df:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C6EFA881-BEAC-4C18-B225-FDCB1B5B5774 - e59a7482ba334579"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Result&lt;WimFarm.TrendRes, WimFarm.NetworkError&gt;) -&gt; () in WimFarm.TrendVM.summary(lvmToken: Swift.String, widgetLst: WimFarm.WidgetList, df: Swift.String) -&gt; ()"
+                  moduleName = "WimFarm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ulalalab/Documents/Source/application/WimFarm_iOS/WimFarm/WimFarm/ViewModel/TrendVM.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "183"
+                  endingLineNumber = "183"
+                  offsetFromSymbolStart = "3408">
+               </Location>
+               <Location
+                  uuid = "C6EFA881-BEAC-4C18-B225-FDCB1B5B5774 - e59a7482ba334579"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Result&lt;WimFarm.TrendRes, WimFarm.NetworkError&gt;) -&gt; () in WimFarm.TrendVM.summary(lvmToken: Swift.String, widgetLst: WimFarm.WidgetList, df: Swift.String) -&gt; ()"
+                  moduleName = "WimFarm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ulalalab/Documents/Source/application/WimFarm_iOS/WimFarm/WimFarm/ViewModel/TrendVM.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "183"
+                  endingLineNumber = "183"
+                  offsetFromSymbolStart = "3440">
+               </Location>
+               <Location
+                  uuid = "C6EFA881-BEAC-4C18-B225-FDCB1B5B5774 - e59a7482ba334579"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Result&lt;WimFarm.TrendRes, WimFarm.NetworkError&gt;) -&gt; () in WimFarm.TrendVM.summary(lvmToken: Swift.String, widgetLst: WimFarm.WidgetList, df: Swift.String) -&gt; ()"
+                  moduleName = "WimFarm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ulalalab/Documents/Source/application/WimFarm_iOS/WimFarm/WimFarm/ViewModel/TrendVM.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "183"
+                  endingLineNumber = "183"
+                  offsetFromSymbolStart = "3472">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "952F129A-2234-440C-B98A-29776BE7384C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WimFarm/ViewModel/TrendVM.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "111"
+            endingLineNumber = "111"
+            landmarkName = "summary(lvmToken:widgetLst:df:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D859FC71-BDA9-4867-9F94-34364D244511"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WimFarm/ViewModel/AlarmVM.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "381"
+            endingLineNumber = "381"
+            landmarkName = "getDeviceConfig(subList:aDate:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "96DCCEF5-DD10-4904-B20D-32ADB93EFE5D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WimFarm/ViewModel/DashboardVM.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "105"
+            endingLineNumber = "105"
+            landmarkName = "loaded(lvmToken:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "96DCCEF5-DD10-4904-B20D-32ADB93EFE5D - 1efc060284d0041d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;WimFarm.LoadedResponse, WimFarm.NetworkError&gt;) -&gt; () in WimFarm.DashboardVM.loaded(lvmToken: Swift.String) -&gt; ()"
+                  moduleName = "WimFarm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ulalalab/Documents/Source/application/WimFarm_iOS/WimFarm/WimFarm/ViewModel/DashboardVM.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "105"
+                  endingLineNumber = "105"
+                  offsetFromSymbolStart = "11772">
+               </Location>
+               <Location
+                  uuid = "96DCCEF5-DD10-4904-B20D-32ADB93EFE5D - 1efc060284d0041d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;WimFarm.LoadedResponse, WimFarm.NetworkError&gt;) -&gt; () in WimFarm.DashboardVM.loaded(lvmToken: Swift.String) -&gt; ()"
+                  moduleName = "WimFarm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ulalalab/Documents/Source/application/WimFarm_iOS/WimFarm/WimFarm/ViewModel/DashboardVM.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "105"
+                  endingLineNumber = "105"
+                  offsetFromSymbolStart = "17832">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2BC70F0E-937D-4C60-B263-FA24516B88D5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WimFarm/ViewModel/DashboardVM.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "110"
+            endingLineNumber = "110"
+            landmarkName = "loaded(lvmToken:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2BC70F0E-937D-4C60-B263-FA24516B88D5 - 1efc060284d004a6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;WimFarm.LoadedResponse, WimFarm.NetworkError&gt;) -&gt; () in WimFarm.DashboardVM.loaded(lvmToken: Swift.String) -&gt; ()"
+                  moduleName = "WimFarm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ulalalab/Documents/Source/application/WimFarm_iOS/WimFarm/WimFarm/ViewModel/DashboardVM.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "110"
+                  endingLineNumber = "110"
+                  offsetFromSymbolStart = "12644">
+               </Location>
+               <Location
+                  uuid = "2BC70F0E-937D-4C60-B263-FA24516B88D5 - 1efc060284d004a6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;WimFarm.LoadedResponse, WimFarm.NetworkError&gt;) -&gt; () in WimFarm.DashboardVM.loaded(lvmToken: Swift.String) -&gt; ()"
+                  moduleName = "WimFarm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ulalalab/Documents/Source/application/WimFarm_iOS/WimFarm/WimFarm/ViewModel/DashboardVM.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "110"
+                  endingLineNumber = "110"
+                  offsetFromSymbolStart = "19127">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "001CDAA5-B887-4F1E-94E0-7BB8E7EBEDD7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WimFarm/ViewModel/DashboardVM.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "98"
+            endingLineNumber = "98"
+            landmarkName = "loaded(lvmToken:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "001CDAA5-B887-4F1E-94E0-7BB8E7EBEDD7 - 1efc060284d00532"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;WimFarm.LoadedResponse, WimFarm.NetworkError&gt;) -&gt; () in WimFarm.DashboardVM.loaded(lvmToken: Swift.String) -&gt; ()"
+                  moduleName = "WimFarm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ulalalab/Documents/Source/application/WimFarm_iOS/WimFarm/WimFarm/ViewModel/DashboardVM.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "98"
+                  endingLineNumber = "98"
+                  offsetFromSymbolStart = "11620">
+               </Location>
+               <Location
+                  uuid = "001CDAA5-B887-4F1E-94E0-7BB8E7EBEDD7 - 1efc060284d00532"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;WimFarm.LoadedResponse, WimFarm.NetworkError&gt;) -&gt; () in WimFarm.DashboardVM.loaded(lvmToken: Swift.String) -&gt; ()"
+                  moduleName = "WimFarm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ulalalab/Documents/Source/application/WimFarm_iOS/WimFarm/WimFarm/ViewModel/DashboardVM.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "98"
+                  endingLineNumber = "98"
+                  offsetFromSymbolStart = "17645">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F246867C-734A-4377-813F-4D96C4073487"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WimFarm/Network/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "199"
+            endingLineNumber = "199"
+            landmarkName = "fetch(from:method:token:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F246867C-734A-4377-813F-4D96C4073487 - bbcc9414312639fb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static WimFarm.NetworkManagerUrlEncodingWithoutParam.fetch(from: Swift.String, method: Alamofire.HTTPMethod, token: Swift.String, completion: (Swift.Result&lt;&#x3c4;_0_0, WimFarm.NetworkError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "WimFarm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ulalalab/Documents/Source/application/WimFarm_iOS/WimFarm/WimFarm/Network/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "199"
+                  endingLineNumber = "199"
+                  offsetFromSymbolStart = "524">
+               </Location>
+               <Location
+                  uuid = "F246867C-734A-4377-813F-4D96C4073487 - bbcc9414312639fb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static WimFarm.NetworkManagerUrlEncodingWithoutParam.fetch(from: Swift.String, method: Alamofire.HTTPMethod, token: Swift.String, completion: (Swift.Result&lt;&#x3c4;_0_0, WimFarm.NetworkError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "WimFarm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ulalalab/Documents/Source/application/WimFarm_iOS/WimFarm/WimFarm/Network/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "199"
+                  endingLineNumber = "199"
+                  offsetFromSymbolStart = "646">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F71EA9A3-D43E-440F-917B-6FD178E0475F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WimFarm/Network/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "203"
+            endingLineNumber = "203"
+            landmarkName = "fetch(from:method:token:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F71EA9A3-D43E-440F-917B-6FD178E0475F - 8f24a681db68e477"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;&#x3c4;_0_0, Alamofire.AFError&gt;) -&gt; () in static WimFarm.NetworkManagerUrlEncodingWithoutParam.fetch(from: Swift.String, method: Alamofire.HTTPMethod, token: Swift.String, completion: (Swift.Result&lt;&#x3c4;_0_0, WimFarm.NetworkError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "WimFarm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ulalalab/Documents/Source/application/WimFarm_iOS/WimFarm/WimFarm/Network/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "203"
+                  endingLineNumber = "203"
+                  offsetFromSymbolStart = "1160">
+               </Location>
+               <Location
+                  uuid = "F71EA9A3-D43E-440F-917B-6FD178E0475F - 8f24a681db68e477"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;&#x3c4;_0_0, Alamofire.AFError&gt;) -&gt; () in static WimFarm.NetworkManagerUrlEncodingWithoutParam.fetch(from: Swift.String, method: Alamofire.HTTPMethod, token: Swift.String, completion: (Swift.Result&lt;&#x3c4;_0_0, WimFarm.NetworkError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "WimFarm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ulalalab/Documents/Source/application/WimFarm_iOS/WimFarm/WimFarm/Network/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "203"
+                  endingLineNumber = "203"
+                  offsetFromSymbolStart = "892">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6A72DC8C-8955-4A17-BEB6-BD008179C93F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WimFarm/Network/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "207"
+            endingLineNumber = "207"
+            landmarkName = "fetch(from:method:token:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6A72DC8C-8955-4A17-BEB6-BD008179C93F - 8f24a681db68e7eb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;&#x3c4;_0_0, Alamofire.AFError&gt;) -&gt; () in static WimFarm.NetworkManagerUrlEncodingWithoutParam.fetch(from: Swift.String, method: Alamofire.HTTPMethod, token: Swift.String, completion: (Swift.Result&lt;&#x3c4;_0_0, WimFarm.NetworkError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "WimFarm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ulalalab/Documents/Source/application/WimFarm_iOS/WimFarm/WimFarm/Network/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "207"
+                  endingLineNumber = "207"
+                  offsetFromSymbolStart = "1608">
+               </Location>
+               <Location
+                  uuid = "6A72DC8C-8955-4A17-BEB6-BD008179C93F - 8f24a681db68e7eb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;&#x3c4;_0_0, Alamofire.AFError&gt;) -&gt; () in static WimFarm.NetworkManagerUrlEncodingWithoutParam.fetch(from: Swift.String, method: Alamofire.HTTPMethod, token: Swift.String, completion: (Swift.Result&lt;&#x3c4;_0_0, WimFarm.NetworkError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "WimFarm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ulalalab/Documents/Source/application/WimFarm_iOS/WimFarm/WimFarm/Network/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "207"
+                  endingLineNumber = "207"
+                  offsetFromSymbolStart = "1371">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9BEFAAC8-490F-4915-AFE2-32BE7060C1EE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WimFarm/Network/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "210"
+            endingLineNumber = "210"
+            landmarkName = "fetch(from:method:token:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9BEFAAC8-490F-4915-AFE2-32BE7060C1EE - 8f24a681db68e70e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;&#x3c4;_0_0, Alamofire.AFError&gt;) -&gt; () in static WimFarm.NetworkManagerUrlEncodingWithoutParam.fetch(from: Swift.String, method: Alamofire.HTTPMethod, token: Swift.String, completion: (Swift.Result&lt;&#x3c4;_0_0, WimFarm.NetworkError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "WimFarm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ulalalab/Documents/Source/application/WimFarm_iOS/WimFarm/WimFarm/Network/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "210"
+                  endingLineNumber = "210"
+                  offsetFromSymbolStart = "1440">
+               </Location>
+               <Location
+                  uuid = "9BEFAAC8-490F-4915-AFE2-32BE7060C1EE - 8f24a681db68e70e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;&#x3c4;_0_0, Alamofire.AFError&gt;) -&gt; () in static WimFarm.NetworkManagerUrlEncodingWithoutParam.fetch(from: Swift.String, method: Alamofire.HTTPMethod, token: Swift.String, completion: (Swift.Result&lt;&#x3c4;_0_0, WimFarm.NetworkError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "WimFarm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ulalalab/Documents/Source/application/WimFarm_iOS/WimFarm/WimFarm/Network/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "210"
+                  endingLineNumber = "210"
+                  offsetFromSymbolStart = "1195">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CC752C61-1BCF-4B86-829C-10FDD1101EE8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WimFarm/ViewModel/LoginVM.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "123"
+            endingLineNumber = "123"
+            landmarkName = "login(withdEmail:password:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "CC752C61-1BCF-4B86-829C-10FDD1101EE8 - 319209f2ee579b5c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WimFarm.LoginVM.registerToken() -&gt; ()"
+                  moduleName = "WimFarm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ulalalab/Documents/Source/application/WimFarm_iOS/WimFarm/WimFarm/ViewModel/LoginVM.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "122"
+                  endingLineNumber = "122"
+                  offsetFromSymbolStart = "528">
+               </Location>
+               <Location
+                  uuid = "CC752C61-1BCF-4B86-829C-10FDD1101EE8 - ba6838d8e13a62c9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Result&lt;WimFarm.LoginResponse, WimFarm.NetworkError&gt;) -&gt; () in WimFarm.LoginVM.login(withdEmail: Swift.String, password: Swift.String) -&gt; ()"
+                  moduleName = "WimFarm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ulalalab/Documents/Source/application/WimFarm_iOS/WimFarm/WimFarm/ViewModel/LoginVM.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "122"
+                  endingLineNumber = "122"
+                  offsetFromSymbolStart = "8164">
+               </Location>
+               <Location
+                  uuid = "CC752C61-1BCF-4B86-829C-10FDD1101EE8 - ba6838d8e13a62c9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Result&lt;WimFarm.LoginResponse, WimFarm.NetworkError&gt;) -&gt; () in WimFarm.LoginVM.login(withdEmail: Swift.String, password: Swift.String) -&gt; ()"
+                  moduleName = "WimFarm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ulalalab/Documents/Source/application/WimFarm_iOS/WimFarm/WimFarm/ViewModel/LoginVM.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "122"
+                  endingLineNumber = "122"
+                  offsetFromSymbolStart = "12204">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BC984084-B973-47E4-9FA6-41772089F82C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WimFarm/ViewModel/LoginVM.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "84"
+            endingLineNumber = "84"
+            landmarkName = "login(withdEmail:password:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "BC984084-B973-47E4-9FA6-41772089F82C - ba6838d8e13a7832"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Result&lt;WimFarm.LoginResponse, WimFarm.NetworkError&gt;) -&gt; () in WimFarm.LoginVM.login(withdEmail: Swift.String, password: Swift.String) -&gt; ()"
+                  moduleName = "WimFarm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ulalalab/Documents/Source/application/WimFarm_iOS/WimFarm/WimFarm/ViewModel/LoginVM.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "83"
+                  endingLineNumber = "83"
+                  offsetFromSymbolStart = "1292">
+               </Location>
+               <Location
+                  uuid = "BC984084-B973-47E4-9FA6-41772089F82C - 5aa5b2ee2d03a41f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Swift.String, Alamofire.AFError&gt;) -&gt; () in WimFarm.LoginVM.login(withdEmail: Swift.String, password: Swift.String) -&gt; ()"
+                  moduleName = "WimFarm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ulalalab/Documents/Source/application/WimFarm_iOS/WimFarm/WimFarm/ViewModel/LoginVM.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "83"
+                  endingLineNumber = "83"
+                  offsetFromSymbolStart = "1712">
+               </Location>
+               <Location
+                  uuid = "BC984084-B973-47E4-9FA6-41772089F82C - 5aa5b2ee2d03a41f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Swift.String, Alamofire.AFError&gt;) -&gt; () in WimFarm.LoginVM.login(withdEmail: Swift.String, password: Swift.String) -&gt; ()"
+                  moduleName = "WimFarm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ulalalab/Documents/Source/application/WimFarm_iOS/WimFarm/WimFarm/ViewModel/LoginVM.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "83"
+                  endingLineNumber = "83"
+                  offsetFromSymbolStart = "1427">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "23EC5069-990A-40D0-A9F3-75272C39913F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WimFarm/ViewModel/LoginVM.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "86"
+            endingLineNumber = "86"
+            landmarkName = "login(withdEmail:password:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "23EC5069-990A-40D0-A9F3-75272C39913F - ba6838d8e13a798c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Result&lt;WimFarm.LoginResponse, WimFarm.NetworkError&gt;) -&gt; () in WimFarm.LoginVM.login(withdEmail: Swift.String, password: Swift.String) -&gt; ()"
+                  moduleName = "WimFarm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ulalalab/Documents/Source/application/WimFarm_iOS/WimFarm/WimFarm/ViewModel/LoginVM.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "85"
+                  endingLineNumber = "85"
+                  offsetFromSymbolStart = "2488">
+               </Location>
+               <Location
+                  uuid = "23EC5069-990A-40D0-A9F3-75272C39913F - 5aa5b2ee2d03a5a1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Swift.String, Alamofire.AFError&gt;) -&gt; () in WimFarm.LoginVM.login(withdEmail: Swift.String, password: Swift.String) -&gt; ()"
+                  moduleName = "WimFarm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ulalalab/Documents/Source/application/WimFarm_iOS/WimFarm/WimFarm/ViewModel/LoginVM.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "85"
+                  endingLineNumber = "85"
+                  offsetFromSymbolStart = "1992">
+               </Location>
+               <Location
+                  uuid = "23EC5069-990A-40D0-A9F3-75272C39913F - 5aa5b2ee2d03a5a1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Swift.String, Alamofire.AFError&gt;) -&gt; () in WimFarm.LoginVM.login(withdEmail: Swift.String, password: Swift.String) -&gt; ()"
+                  moduleName = "WimFarm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ulalalab/Documents/Source/application/WimFarm_iOS/WimFarm/WimFarm/ViewModel/LoginVM.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "85"
+                  endingLineNumber = "85"
+                  offsetFromSymbolStart = "1691">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1075F40D-03E3-485A-BF8B-FFB396CBC795"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WimFarm/ViewModel/LoginVM.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "96"
+            endingLineNumber = "96"
+            landmarkName = "login(withdEmail:password:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1075F40D-03E3-485A-BF8B-FFB396CBC795 - ba6838d8e13a6646"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Result&lt;WimFarm.LoginResponse, WimFarm.NetworkError&gt;) -&gt; () in WimFarm.LoginVM.login(withdEmail: Swift.String, password: Swift.String) -&gt; ()"
+                  moduleName = "WimFarm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ulalalab/Documents/Source/application/WimFarm_iOS/WimFarm/WimFarm/ViewModel/LoginVM.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "95"
+                  endingLineNumber = "95"
+                  offsetFromSymbolStart = "5500">
+               </Location>
+               <Location
+                  uuid = "1075F40D-03E3-485A-BF8B-FFB396CBC795 - ba6838d8e13a6646"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Result&lt;WimFarm.LoginResponse, WimFarm.NetworkError&gt;) -&gt; () in WimFarm.LoginVM.login(withdEmail: Swift.String, password: Swift.String) -&gt; ()"
+                  moduleName = "WimFarm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ulalalab/Documents/Source/application/WimFarm_iOS/WimFarm/WimFarm/ViewModel/LoginVM.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "95"
+                  endingLineNumber = "95"
+                  offsetFromSymbolStart = "3740">
+               </Location>
+               <Location
+                  uuid = "1075F40D-03E3-485A-BF8B-FFB396CBC795 - ba6838d8e13a6646"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Result&lt;WimFarm.LoginResponse, WimFarm.NetworkError&gt;) -&gt; () in WimFarm.LoginVM.login(withdEmail: Swift.String, password: Swift.String) -&gt; ()"
+                  moduleName = "WimFarm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ulalalab/Documents/Source/application/WimFarm_iOS/WimFarm/WimFarm/ViewModel/LoginVM.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "95"
+                  endingLineNumber = "95"
+                  offsetFromSymbolStart = "6149">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "90C3B954-51CA-4BF5-AEC1-E55F4E1F1A9A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WimFarm/ViewModel/LoginVM.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "79"
+            endingLineNumber = "79"
+            landmarkName = "login(withdEmail:password:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "90C3B954-51CA-4BF5-AEC1-E55F4E1F1A9A - b010f55966b730de"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WimFarm.LoginVM.login(withdEmail: Swift.String, password: Swift.String) -&gt; ()"
+                  moduleName = "WimFarm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ulalalab/Documents/Source/application/WimFarm_iOS/WimFarm/WimFarm/ViewModel/LoginVM.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "78"
+                  endingLineNumber = "78"
+                  offsetFromSymbolStart = "1884">
+               </Location>
+               <Location
+                  uuid = "90C3B954-51CA-4BF5-AEC1-E55F4E1F1A9A - 5aa5b2ee2d03a49b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Swift.String, Alamofire.AFError&gt;) -&gt; () in WimFarm.LoginVM.login(withdEmail: Swift.String, password: Swift.String) -&gt; ()"
+                  moduleName = "WimFarm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ulalalab/Documents/Source/application/WimFarm_iOS/WimFarm/WimFarm/ViewModel/LoginVM.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "79"
+                  endingLineNumber = "79"
+                  offsetFromSymbolStart = "348">
+               </Location>
+               <Location
+                  uuid = "90C3B954-51CA-4BF5-AEC1-E55F4E1F1A9A - b010f55966b730de"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WimFarm.LoginVM.login(withdEmail: Swift.String, password: Swift.String) -&gt; ()"
+                  moduleName = "WimFarm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ulalalab/Documents/Source/application/WimFarm_iOS/WimFarm/WimFarm/ViewModel/LoginVM.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "78"
+                  endingLineNumber = "78"
+                  offsetFromSymbolStart = "1888">
+               </Location>
+               <Location
+                  uuid = "90C3B954-51CA-4BF5-AEC1-E55F4E1F1A9A - b010f55966b730de"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WimFarm.LoginVM.login(withdEmail: Swift.String, password: Swift.String) -&gt; ()"
+                  moduleName = "WimFarm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ulalalab/Documents/Source/application/WimFarm_iOS/WimFarm/WimFarm/ViewModel/LoginVM.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "78"
+                  endingLineNumber = "78"
+                  offsetFromSymbolStart = "2386">
+               </Location>
+               <Location
+                  uuid = "90C3B954-51CA-4BF5-AEC1-E55F4E1F1A9A - 5aa5b2ee2d03a49b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Swift.String, Alamofire.AFError&gt;) -&gt; () in WimFarm.LoginVM.login(withdEmail: Swift.String, password: Swift.String) -&gt; ()"
+                  moduleName = "WimFarm"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ulalalab/Documents/Source/application/WimFarm_iOS/WimFarm/WimFarm/ViewModel/LoginVM.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "79"
+                  endingLineNumber = "79"
+                  offsetFromSymbolStart = "199">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

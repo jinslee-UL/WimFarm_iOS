@@ -1,0 +1,6 @@
+framework module Pods_WimFarm {
+  umbrella header "Pods-WimFarm-umbrella.h"
+
+  export *
+  module * { export * }
+}
